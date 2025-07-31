@@ -1,2 +1,3 @@
-# job-portal-backend
-Flask-based backend system for a job portal with REST API, MySQL integration, and CRUD operations
+# Job Portal Backend
+
+Flask-based backend system for job listings with MySQL and REST APIs.
